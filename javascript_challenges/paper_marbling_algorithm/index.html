@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.4/p5.min.js"
+            integrity="sha512-d6sc8kbZEtA2LwB9m/ck0FhvyUwVfdmvTeyJRprmj7Wg9wRFtHDIpr6qk4g/y3Ix3O9I6KHIv6SGu9f7RaP1Gw=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <title>Paper Marbling</title>
     <style>
         body {
@@ -10,15 +13,16 @@
             justify-content: center;
             align-items: center;
             height: 100vh;
+            margin: 0;
+            padding: 0;
         }
-        canvas {
-            border: 1px solid black;
-            height: 90vh;
+        #defaultCanvas0 {
+            border: 5px solid black;
         }
     </style>
 </head>
 <body>
-<canvas id="marblingCanvas" width="800" height="600"></canvas>
-<script src="script.js"></script>
+<script src="sketch.js"></script>
+<script src="ink.js"></script>
 </body>
 </html>
