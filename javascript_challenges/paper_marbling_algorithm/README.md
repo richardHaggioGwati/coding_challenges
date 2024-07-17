@@ -1,0 +1,10 @@
+# Paper marbling
+
+## Definition
+
+Paper marbling is a method of aqueous surface design, which can produce patterns similar to smooth marble or other kinds
+of stone. The patterns are the result of color floated on either plain water or a viscous solution known as size, and
+then carefully transferred to an absorbent surface, such as paper or fabric. Through several centuries, people have
+applied marbled materials to a variety of surfaces. It is often employed as a writing surface for calligraphy, and
+especially book covers and endpapers in bookbinding and stationery.
+
