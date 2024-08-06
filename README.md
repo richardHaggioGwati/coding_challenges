@@ -1,6 +1,6 @@
 # Coding Challenges Repository
 
-Welcome to the Coding Challenges Repository! This repository is a collection of different coding challenges designed to help you improve your coding skills across various languages and problem domains.
+Welcome to the Coding Challenges Repository! This repository is a collection of different coding challenges designed to help you improve your coding skills in javascript.
 
 ## Structure
 
