@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Quick Sort Visualization Audio Points</title>
+		<style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #282c34;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        #controls {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+        }
+		</style>
+	</head>
+	<body>
+        
+		<div id="controls">
+            <h3>Quick Sort Visualization Audio Points</h3>
+			<label for="audioFileInput">Select an audio file:</label>
+			<input type="file" id="audioFileInput" accept="audio/*">
+		</div>
+		<canvas></canvas>
+		<script src="./script.js"></script>
+	</body>
+</html>
