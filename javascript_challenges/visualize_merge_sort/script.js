@@ -17,7 +17,8 @@ function setup() {
 
     values = new Array(window.innerWidth);
     for (let i = 0; i < values.length; i++) {
-        values[i] = Math.random() * window.innerHeight;
+        values[i] = Math.random() * (window.innerHeight / 3);
+        console.log("🚀 ~ setup ~ window.innerHeight:", window.innerHeight)
         states[i] = -1;
     }
     requestAnimationFrame(draw);
